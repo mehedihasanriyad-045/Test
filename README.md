@@ -52,7 +52,7 @@ password, he has option to recover account. Simply clicking on ‘Forget Your Pa
 and providing account’s email, he can change password. Here a email to change password
 will be sent into account’s email. From there , user can change password.
 
- * Admin Mode & User Mode:
+* Admin Mode & User Mode:
 
 Admin and user mode has been developed. Admin can add
 places review, approve reviews, delete and update reviews, update and delete emergency
@@ -60,7 +60,7 @@ numbers and other works that user can do. On the other hand, user can read revie
 comment, write review which will be stored for admin approval, create plan, see weather
 update etc. Admin and user will be determined automatically when one try to log in.
 
- * Review:
+* Review:
 
 Here review of different places are added. User can find the review of a place
 under that place’s division. To see review, user have to go to, ‘Places’ from the menu and
@@ -72,22 +72,22 @@ connection to see reviews.
 User can rate a place. If user visit to a place and want to rate the place , he can
 easily go to the place’s details an can rate the place.
 
- * Comment:
+* Comment:
 
 An user can write his comment in any review. To write comment for particular
 place, he has to go to place’s details and write his comments. An user have to be logged in to
 write comment. You must have internet connection to write comment.
 
- * Update Information:
+* Update Information:
 
 Admin can update any information of reviews by editing reviews.
 
- * Searching:
+* Searching:
 
 Searching feature are added in reviews to help user find their interested places’
 reviews easily. One can simply go to reviews and search for places.
 
- * Create Plan:
+* Create Plan:
 
 If anyone want to go to any place he can create plan. If anyone create plan, his
 plan will be posted in plan news feed. If he needs member/s, any user can contact with him
@@ -96,7 +96,7 @@ creator. To create plan, user have to be logged in. After completing a form of t
 details, user can create a plan. An user can also write comment on any plan. You must have
 internet connection to create plan.
 
- * Weather:
+* Weather:
 
 We have developed weather update feature. We used OpenWeatherMap’s api to
 develop this feature. It shows weather condition, temperature, maximum & minimum
@@ -105,13 +105,13 @@ place. To see weather information of a place, user have to search for the place 
 can see the updated weather information. You must have internet connection to see weather
 update.
 
-### * Find Helpful Information:
+* Find Helpful Information:
 
 Here you will find some emergency contact of police, tourist
 places and hotels which may help you.
 
 
-### Used API
+## Used API
  We use OpenWeatherMap API for weather update.
 
 
@@ -121,9 +121,9 @@ places and hotels which may help you.
 
 ### Contributors
 
-Md. Mehedi Hasan Riyad (Leader)
-S. M Ashif Zahan 
-Abdullah Al Mamun
+Md. Mehedi Hasan Riyad (Leader) \n
+S. M Ashif Zahan \n
+Abdullah Al Mamun \n
 
 See the [contribution](https://github.com/mehedihasanriyad-045/Explore/graphs/contributors) in this project. 
 
