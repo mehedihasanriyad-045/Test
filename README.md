@@ -119,11 +119,11 @@ places and hotels which may help you.
 
 
 
-### Contributors
+## Contributors
 
-Md. Mehedi Hasan Riyad (Leader) \n
-S. M Ashif Zahan \n
-Abdullah Al Mamun \n
+Md. Mehedi Hasan Riyad (Leader) \
+S. M Ashif Zahan \
+Abdullah Al Mamun \
 
 See the [contribution](https://github.com/mehedihasanriyad-045/Explore/graphs/contributors) in this project. 
 
