@@ -5,7 +5,7 @@ This project is our Application Developing Lab project. We try to develop a trav
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites
 
@@ -123,7 +123,7 @@ places and hotels which may help you.
 
 Md. Mehedi Hasan Riyad (Leader) \
 S. M Ashif Zahan \
-Abdullah Al Mamun \
+Abdullah Al Mamun 
 
 See the [contribution](https://github.com/mehedihasanriyad-045/Explore/graphs/contributors) in this project. 
 
